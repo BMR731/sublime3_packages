@@ -1,0 +1,15 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Evernote",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"MarkdownHighlighting",
+		"MarkdownLivePreview",
+		"Package Control"
+	]
+}
